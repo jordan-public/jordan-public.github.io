@@ -1,4 +1,4 @@
-# jordan-public
+# [GitHub: jordan-public](https://github.com/jordan-public)
 
 ## My Hackathons
 
